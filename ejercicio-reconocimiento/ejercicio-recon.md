@@ -33,6 +33,12 @@ Recuerda que entre los datos que más te interesan están:
 - Vulnerabilidades conocidas (si las hubiera).
 - Información en redes sociales.
 
+## Cuidado
+
 **NO** te salgas del *scope* del programa de bug bounty, aunque encuentres información sensible o vulnerabilidades.
 
-El informe debe entregarse en formato markdown y en formato PDF.
+No toques nada, no hagas pruebas de penetración, solo recopila información e identifica posibles puntos de entrada, información sensible, vulnerabilidades y otros datos de interés.
+
+Se espera que se utilicen las herramientas vistas en clase, pero se valorará positivamente el uso de otras herramientas y técnicas.
+
+El informe debe entregarse en formato markdown y en formato PDF, en un repositorio de GitHub.
